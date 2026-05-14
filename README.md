@@ -10,14 +10,14 @@
       :star: This repo is just for fun, feel free to contribute! :star:
    </p>
    <p align="center">
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards/stargazers">
-      <img alt="Stargazers" src="https://img.shields.io/github/stars/vn7n24fzkq/github-profile-summary-cards?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41"></a>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards/releases/latest">
-      <img alt="Releases" src="https://img.shields.io/github/release/vn7n24fzkq/github-profile-summary-cards.svg?style=for-the-badge&logo=semantic-release&color=f5bde6&logoColor=D9E0EE&labelColor=302D41"/></a>
+      <a href="https://github.com/xshubhamg/github-profile-summary-cards/stargazers">
+      <img alt="Stargazers" src="https://img.shields.io/github/stars/xshubhamg/github-profile-summary-cards?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41"></a>
+      <a href="https://github.com/xshubhamg/github-profile-summary-cards/releases/latest">
+      <img alt="Releases" src="https://img.shields.io/github/release/xshubhamg/github-profile-summary-cards.svg?style=for-the-badge&logo=semantic-release&color=f5bde6&logoColor=D9E0EE&labelColor=302D41"/></a>
       <a href="https://www.conventionalcommits.org/en/v1.0.0/">
       <img alt="conventionalcommits" src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?style=for-the-badge&logo=conventionalcommits&color=ee99a0&logoColor=D9E0EE&labelColor=302D41"></a>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards/actions/workflows/github-action.yml">
-      <img alt="testandlint" src="https://img.shields.io/github/actions/workflow/status/vn7n24fzkq/github-profile-summary-cards/test-and-lint.yml?branch=main&label=Test%20and%20Lint&style=for-the-badge&color=a6da95"></a>
+      <a href="https://github.com/xshubhamg/github-profile-summary-cards/actions/workflows/github-action.yml">
+      <img alt="testandlint" src="https://img.shields.io/github/actions/workflow/status/xshubhamg/github-profile-summary-cards/test-and-lint.yml?branch=main&label=Test%20and%20Lint&style=for-the-badge&color=a6da95"></a>
    </p>
 </div>
 
@@ -27,11 +27,11 @@
 </p>
 
 
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/3-stats.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg)
+![](https://raw.githubusercontent.com/xshubhamg/xshubhamg/master/profile-summary-card-output/solarized/0-profile-details.svg)
+![](https://raw.githubusercontent.com/xshubhamg/xshubhamg/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/xshubhamg/xshubhamg/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/xshubhamg/xshubhamg/master/profile-summary-card-output/solarized/3-stats.svg)
+![](https://raw.githubusercontent.com/xshubhamg/xshubhamg/master/profile-summary-card-output/solarized/4-productive-time.svg)
 
 </div>
 
@@ -40,22 +40,22 @@
 |   |   |   |   |   |
 |:---:|:---:|:---:|:---:|:---:|
 |default|2077|dracula|github|github_dark|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=2077)| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=github)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=github_dark)|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xshubhamg&theme=default)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xshubhamg&theme=2077)| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xshubhamg&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xshubhamg&theme=github)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xshubhamg&theme=github_dark)|
 |gruvbox|monokai|nord_bright|nord_dark|radical|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=gruvbox)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=monokai)| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=nord_bright)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=nord_dark)  |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=radical)|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xshubhamg&theme=gruvbox)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xshubhamg&theme=monokai)| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xshubhamg&theme=nord_bright)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xshubhamg&theme=nord_dark)  |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xshubhamg&theme=radical)|
 |solarized|solarized_dark|tokyonight|vue|zenburn|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=solarized)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=solarized_dark)| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=tokyonight)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=vue)  |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=zenburn)|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xshubhamg&theme=solarized)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xshubhamg&theme=solarized_dark)| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xshubhamg&theme=tokyonight)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xshubhamg&theme=vue)  |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xshubhamg&theme=zenburn)|
 |transparent|catppuccin_frappe|catppuccin_mocha|   |   |
-|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=transparent)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=catppuccin_frappe)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=catppuccin_mocha)|   |   |
+|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xshubhamg&theme=transparent)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xshubhamg&theme=catppuccin_frappe)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xshubhamg&theme=catppuccin_mocha)|   |   |
 
-[More themes](https://github.com/vn7n24fzkq/github-profile-summary-cards-example/tree/master/profile-summary-card-output)
+[More themes](https://github.com/xshubhamg/github-profile-summary-cards-example/tree/master/profile-summary-card-output)
 
 ## How to use (API)
 
 You can use the public API hosted on Vercel, or [deploy your own instance](deployment.md).
 
 ### Profile details card
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xshubhamg&theme=nord_bright)
 
 `http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name}`
 - Accept url parameters
@@ -64,7 +64,7 @@ You can use the public API hosted on Vercel, or [deploy your own instance](deplo
   - username
     - Username
 ### Top languages used in repository card
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xshubhamg&theme=nord_bright)
 
 `http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}`
 - Accept url parameters
@@ -78,7 +78,7 @@ You can use the public API hosted on Vercel, or [deploy your own instance](deplo
     - You can found the supported languages in [here](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
 
 ### Top languages in commits card
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xshubhamg&theme=nord_bright)
 
 `http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={username}&theme={theme_name}&exclude={exclude}`
 - Accept url parameters
@@ -92,7 +92,7 @@ You can use the public API hosted on Vercel, or [deploy your own instance](deplo
     - You can found the supported languages in [here](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
 
 ### GitHub stats card
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=nord_bright&)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xshubhamg&theme=nord_bright&)
 
 `http://github-profile-summary-cards.vercel.app/api/cards/stats?username={username}&theme={theme_name}`
 - Accept url parameters
@@ -102,7 +102,7 @@ You can use the public API hosted on Vercel, or [deploy your own instance](deplo
     - Username
 
 ### Productive time card
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=nord_bright&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xshubhamg&theme=nord_bright&utcOffset=8)
 
 `http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={username}&theme={theme_name}&utcOffset={utcOffset}`
 - accept url parameters
@@ -117,18 +117,18 @@ You can use the public API hosted on Vercel, or [deploy your own instance](deplo
 This action generate your github profile summary cards and make a commit to your repo.
 You can also trigger action by yourself after add this action.
 
-:star: [Follow tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Tutorial) ( Recommendation ) :star:
+:star: [Follow tutorial](https://github.com/xshubhamg/github-profile-summary-cards/wiki/Tutorial) ( Recommendation ) :star:
 
 #### First step
 
 - You need create a [Personal access token](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token) with correct permissions.
-  [Personal token](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Tutorial#generate-token)
+  [Personal token](https://github.com/xshubhamg/github-profile-summary-cards/wiki/Tutorial#generate-token)
 
 - Add personal access token to repo secret.
 
 #### Use template ( create a repository )
 
-- [github-profile-summary-cards-example](https://github.com/vn7n24fzkq/github-profile-summary-cards-example)
+- [github-profile-summary-cards-example](https://github.com/xshubhamg/github-profile-summary-cards-example)
 
 - Action already setup in this template, you just need click `use this template button` to create your profile readme.
 
@@ -163,7 +163,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: xshubhamg/github-profile-summary-cards@release
         env: # default use ${{ secrets.SUMMARY_GITHUB_TOKEN }}, you should replace with your personal access token
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:

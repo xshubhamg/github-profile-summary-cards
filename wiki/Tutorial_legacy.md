@@ -1,6 +1,6 @@
 ## IMPORTANT! <br>
 
-This is LEGACY Version, New updated wiki can be found [Here.](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Tutorial)
+This is LEGACY Version, New updated wiki can be found [Here.](https://github.com/xshubhamg/github-profile-summary-cards/wiki/Tutorial)
 
 ---
 ### First step
@@ -34,7 +34,7 @@ This is LEGACY Version, New updated wiki can be found [Here.](https://github.com
 
 ### Use template
 
-|                   Open template page [github-profile-summary-cards-example](https://github.com/vn7n24fzkq/github-profile-summary-cards-example)                   |
+|                   Open template page [github-profile-summary-cards-example](https://github.com/xshubhamg/github-profile-summary-cards-example)                   |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                             Find and press `Use this template` button                                                             |
 |                                               <img src="./assets_legacy/press-use-template.png" height="300" width="720">                                                |
@@ -72,7 +72,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: xshubhamg/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:

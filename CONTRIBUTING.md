@@ -32,19 +32,19 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 ## Code of Conduct
 
 This project and everyone participating in it is governed by the
-[github-profile-summary-cards Code of Conduct](https://github.com/vn7n24fzkq/github-profile-summary-cards/blob/main/CODE_OF_CONDUCT.md).
+[github-profile-summary-cards Code of Conduct](https://github.com/xshubhamg/github-profile-summary-cards/blob/main/CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report unacceptable behavior
-to the maintainers via [email](mailto:vn7n24fzkq@gmail.com).
+to the maintainers via [email](mailto:shubhammgiri3@gmail.com).
 
 ## I Have a Question
 
-> If you want to ask a question, we assume that you have read the available [documentation](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki).
+> If you want to ask a question, we assume that you have read the available [documentation](https://github.com/xshubhamg/github-profile-summary-cards/wiki).
 
-Before you ask a question, it is best to search for existing [issues](https://github.com/vn7n24fzkq/github-profile-summary-cards/issues) that might help you. In case you have found a suitable issue and still need clarification, you can write your question in this issue. It is also advisable to search the internet for answers first.
+Before you ask a question, it is best to search for existing [issues](https://github.com/xshubhamg/github-profile-summary-cards/issues) that might help you. In case you have found a suitable issue and still need clarification, you can write your question in this issue. It is also advisable to search the internet for answers first.
 
 If you then still feel the need to ask a question and need clarification, we recommend the following:
 
-- Open an [issue](https://github.com/vn7n24fzkq/github-profile-summary-cards/issues/new).
+- Open an [issue](https://github.com/xshubhamg/github-profile-summary-cards/issues/new).
 - Provide as much context as you can about what you're running into.
 - Provide project and platform versions (e.g., Node.js, npm, etc.), depending on what seems relevant.
 
@@ -63,8 +63,8 @@ We will then take care of the issue as soon as possible.
 A good bug report shouldn't leave others needing to chase you up for more information. Therefore, we ask you to investigate carefully, collect information, and describe the issue in detail in your report. Please complete the following steps in advance to help us fix any potential bug as fast as possible.
 
 - Make sure that you are using the latest version.
-- Determine if your bug is really a bug and not an error on your side (e.g., using incompatible environment components/versions). Make sure that you have read the [documentation](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki). If you are looking for support, you might want to check [this section](#i-have-a-question).
-- To see if other users have experienced (and potentially already solved) the same issue you are having, check if there is not already a bug report existing for your bug or error in the [issue tracker](https://github.com/vn7n24fzkq/github-profile-summary-cards/issues?q=is%3Aissue+label%3Abug).
+- Determine if your bug is really a bug and not an error on your side (e.g., using incompatible environment components/versions). Make sure that you have read the [documentation](https://github.com/xshubhamg/github-profile-summary-cards/wiki). If you are looking for support, you might want to check [this section](#i-have-a-question).
+- To see if other users have experienced (and potentially already solved) the same issue you are having, check if there is not already a bug report existing for your bug or error in the [issue tracker](https://github.com/xshubhamg/github-profile-summary-cards/issues?q=is%3Aissue+label%3Abug).
 - Also make sure to search the internet (including Stack Overflow) to see if users outside of the GitHub community have discussed the issue.
 - Collect information about the bug:
   - Stack trace (if applicable)
@@ -76,11 +76,11 @@ A good bug report shouldn't leave others needing to chase you up for more inform
 <!-- omit in toc -->
 #### How Do I Submit a Good Bug Report?
 
-> **Note:** Please do not report security vulnerabilities or issues containing sensitive information via GitHub issues. Instead, report them to the maintainers via [email](mailto:vn7n24fzkq@gmail.com).
+> **Note:** Please do not report security vulnerabilities or issues containing sensitive information via GitHub issues. Instead, report them to the maintainers via [email](mailto:shubhammgiri3@gmail.com).
 
 We use GitHub issues to track bugs and errors. If you run into an issue with the project:
 
-- Open an [issue](https://github.com/vn7n24fzkq/github-profile-summary-cards/issues/new).
+- Open an [issue](https://github.com/xshubhamg/github-profile-summary-cards/issues/new).
 - Explain the behavior you would expect and the actual behavior.
 - Please provide as much context as possible and describe the *reproduction steps* that someone else can follow to recreate the issue on their own. This usually includes your code. For good bug reports, you should isolate the problem and create a reduced test case.
 - Provide the information you collected in the previous section.
@@ -99,14 +99,14 @@ This section guides you through submitting an enhancement suggestion for github-
 #### Before Submitting an Enhancement
 
 - Make sure that you are using the latest version.
-- Read the [documentation](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki) carefully and find out if the functionality is already covered, maybe by an individual configuration.
-- Perform a [search](https://github.com/vn7n24fzkq/github-profile-summary-cards/issues) to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
+- Read the [documentation](https://github.com/xshubhamg/github-profile-summary-cards/wiki) carefully and find out if the functionality is already covered, maybe by an individual configuration.
+- Perform a [search](https://github.com/xshubhamg/github-profile-summary-cards/issues) to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
 - Find out whether your idea fits with the scope and aims of the project. It's up to you to make a strong case to convince the project's developers of the merits of this feature. Keep in mind that we want features that will be useful to the majority of our users and not just a small subset. If you're just targeting a minority of users, consider writing an add-on/plugin library.
 
 <!-- omit in toc -->
 #### How Do I Submit a Good Enhancement Suggestion?
 
-Enhancement suggestions are tracked as [GitHub issues](https://github.com/vn7n24fzkq/github-profile-summary-cards/issues).
+Enhancement suggestions are tracked as [GitHub issues](https://github.com/xshubhamg/github-profile-summary-cards/issues).
 
 - Use a **clear and descriptive title** for the issue to identify the suggestion.
 - Provide a **step-by-step description of the suggested enhancement** in as many details as possible.
@@ -118,8 +118,8 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/vn7n24
 
 Unsure where to begin contributing to github-profile-summary-cards? You can start by looking through these `good first issue` and `help wanted` issues:
 
-- [Good First Issues](https://github.com/vn7n24fzkq/github-profile-summary-cards/issues?q=is%3Aissue+is%3Aopen+label%3A"good+first+issue")
-- [Help Wanted Issues](https://github.com/vn7n24fzkq/github-profile-summary-cards/issues?q=is%3Aissue+is%3Aopen+label%3A"help+wanted")
+- [Good First Issues](https://github.com/xshubhamg/github-profile-summary-cards/issues?q=is%3Aissue+is%3Aopen+label%3A"good+first+issue")
+- [Help Wanted Issues](https://github.com/xshubhamg/github-profile-summary-cards/issues?q=is%3Aissue+is%3Aopen+label%3A"help+wanted")
 
 These issues are a great way to get familiar with the codebase.
 
@@ -137,7 +137,7 @@ Please make sure your code follows the project's coding standards and passes all
 
 Documentation improvements are always welcome! If you find any mistakes or areas that could be improved, feel free to:
 
-- Open an [issue](https://github.com/vn7n24fzkq/github-profile-summary-cards/issues/new) describing the problem.
+- Open an [issue](https://github.com/xshubhamg/github-profile-summary-cards/issues/new) describing the problem.
 - Submit a pull request with your improvements.
 
 ## Styleguides
@@ -165,4 +165,4 @@ Added a new theme called 'sunset' with warm colors.
 
 ## Join The Project Team
 
-If you are interested in becoming a collaborator or maintainer, please reach out! Open an [issue](https://github.com/vn7n24fzkq/github-profile-summary-cards/issues/new) expressing your interest and we can discuss further.
+If you are interested in becoming a collaborator or maintainer, please reach out! Open an [issue](https://github.com/xshubhamg/github-profile-summary-cards/issues/new) expressing your interest and we can discuss further.

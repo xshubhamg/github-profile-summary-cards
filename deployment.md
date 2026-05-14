@@ -17,13 +17,13 @@ This guide provides instructions for deploying your own instance of GitHub Profi
 
 Click the button below to fork the repo and deploy it to Vercel instantly:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvn7n24fzkq%2Fgithub-profile-summary-cards&env=GITHUB_TOKEN&envDescription=https%3A%2F%2Fgithub.com%2Fvn7n24fzkq%2Fgithub-profile-summary-cards%23first-step&project-name=my-github-profile-summary-cards)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fxshubhamg%2Fgithub-profile-summary-cards&env=GITHUB_TOKEN&envDescription=https%3A%2F%2Fgithub.com%2Fxshubhamg%2Fgithub-profile-summary-cards%23first-step&project-name=my-github-profile-summary-cards)
 
 During the setup, Vercel will ask you to provide the `GITHUB_TOKEN`. Paste your Personal Access Token there.
 
 ### Option 2: Manual Deployment via Vercel Dashboard
 
-1.  **Fork the Repository**: Fork [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) to your own GitHub account.
+1.  **Fork the Repository**: Fork [xshubhamg/github-profile-summary-cards](https://github.com/xshubhamg/github-profile-summary-cards) to your own GitHub account.
 2.  **Import to Vercel**:
     *   On the Vercel dashboard, click **Add New > Project**.
     *   Import your forked repository.

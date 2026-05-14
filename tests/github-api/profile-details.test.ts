@@ -8,7 +8,7 @@ const data = {
         user: {
             id: 'userID',
             name: 'vn7',
-            email: 'vn7n24fzkq@gmail.com',
+            email: 'shubhammgiri3@gmail.com',
             createdAt: '2016-07-01T10:46:25Z',
             twitterUsername: null,
             company: 'vn7',
@@ -70,11 +70,11 @@ afterEach(() => {
 describe('github api for profile details', () => {
     it('should get correct profile data', async () => {
         mock.onPost('https://api.github.com/graphql').reply(200, data);
-        const profileDetails = await getProfileDetails('vn7n24fzkq', 'token');
+        const profileDetails = await getProfileDetails('xshubhamg', 'token');
         expect(profileDetails).toEqual({
             id: 'userID',
             name: 'vn7',
-            email: 'vn7n24fzkq@gmail.com',
+            email: 'shubhammgiri3@gmail.com',
             createdAt: '2016-07-01T10:46:25Z',
             company: 'vn7',
             location: 'Taiwan',
@@ -105,6 +105,6 @@ describe('github api for profile details', () => {
 
     it('should throw error when api failed', async () => {
         mock.onPost('https://api.github.com/graphql').reply(200, error);
-        await expect(getProfileDetails('vn7n24fzkq', 'token')).rejects.toThrow('GitHub api failed');
+        await expect(getProfileDetails('xshubhamg', 'token')).rejects.toThrow('GitHub api failed');
     });
 });

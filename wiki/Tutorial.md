@@ -1,6 +1,6 @@
 # Let's get started!
 This tutorial will help you deploy Github-profile-summary-cards with ease. </br>
- If you have any issues regarding the gifs, you can find high res video verions [Here.](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Videos)
+ If you have any issues regarding the gifs, you can find high res video verions [Here.](https://github.com/xshubhamg/github-profile-summary-cards/wiki/Videos)
 
 ### Table of Contents
 1. [Generate token](#generate-token)
@@ -56,7 +56,7 @@ User
 
 ### New repo
 To Create a new repo from a template:
-1. Go to [Template link](https://github.com/vn7n24fzkq/github-profile-summary-cards-example)
+1. Go to [Template link](https://github.com/xshubhamg/github-profile-summary-cards-example)
 2. Click on the "Use this template" button in the top right corner
 3. Select "Create a new template" 
 
@@ -108,7 +108,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: xshubhamg/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.[YOUR_SECRET_TOKEN_NAME] }}
         with:
