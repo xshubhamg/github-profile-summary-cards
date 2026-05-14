@@ -42,6 +42,8 @@ ThemeMap.set('blue_green', new Theme('#2f97c1', '#0cf574', '#040f0f', '#000000',
 ThemeMap.set('blueberry', new Theme('#82aaff', '#27e8a7', '#242938', '#000000', 0, '#89ddff', '#82aaff'));
 ThemeMap.set('buefy', new Theme('#7957d5', '#363636', '#ffffff', '#000000', 0, '#ff3860', '#7957d5'));
 ThemeMap.set('calm', new Theme('#e07a5f', '#ebcfb2', '#373f51', '#000000', 0, '#edae49', '#e07a5f'));
+ThemeMap.set('catppuccin_frappe', new Theme('#ca9ee6', '#c6d0f5', '#303446', '#000000', 0, '#8caaee', '#f4b8e4'));
+ThemeMap.set('catppuccin_mocha', new Theme('#cba6f7', '#cdd6f4', '#1e1e2e', '#000000', 0, '#89b4fa', '#f5c2e7'));
 ThemeMap.set('chartreuse_dark', new Theme('#7fff00', '#fff', '#000', '#000000', 1, '#00aeff', '#7fff00'));
 ThemeMap.set('city_lights', new Theme('#5d8cb3', '#718ca1', '#1d252c', '#000000', 0, '#4798ff', '#5d8cb3'));
 ThemeMap.set('cobalt', new Theme('#e683d9', '#75eeb2', '#193549', '#000000', 0, '#0480ef', '#e683d9'));
